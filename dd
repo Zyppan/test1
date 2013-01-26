@@ -1,0 +1,10 @@
+diff --git "a/F:\\gitcode\\b.txt" "b/F:\\gitcode\\a.txt"
+index 7487e4c..baebf33 100644
+--- "a/F:\\gitcode\\b.txt"
++++ "b/F:\\gitcode\\a.txt"
+@@ -1,2 +1 @@
+-cccc
+-aaaa
+\ No newline at end of file
++cccc
+\ No newline at end of file
